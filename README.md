@@ -14,7 +14,7 @@ The News Homepage Challenge is a design challenge where participants are given a
 
 ## Live Link
 
-View the live version of this project at: `https://your-username.github.io/news-homepage-challenge/`
+View the live version of this project at: `https://news-homepage-challenge-taupe.vercel.app/`
 
 ## Technologies Used
 
