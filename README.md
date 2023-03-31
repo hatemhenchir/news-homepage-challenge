@@ -39,7 +39,7 @@ This project was developed with reference to the following resources:
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/news-homepage-qhqHFQBzhX) for providing the challenge
 - [React documentation](https://reactjs.org/docs/getting-started.html) for reference and guidance
-- [NextJS documentation](https://nextjs.org/docs)
+- [NextJS documentation](https://nextjs.org/docs) for reference and  guidance
 
 ## Credits
 
